@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Udacity App Portfolio</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_one">SPOTIFY STREAMER</string>
+    <string name="button_two">SCORES APP</string>
+    <string name="button_three">LIBRARY APP</string>
+    <string name="button_four">BUILD IT BIGGER</string>
+    <string name="button_five">XYZ READER</string>
+    <string name="button_six">CAPSTONE: MY OWN APP</string>
+</resources>
